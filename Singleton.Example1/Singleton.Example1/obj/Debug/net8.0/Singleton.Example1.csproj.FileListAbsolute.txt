@@ -1,0 +1,14 @@
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\bin\Debug\net8.0\Singleton.Example1.exe
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\bin\Debug\net8.0\Singleton.Example1.deps.json
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\bin\Debug\net8.0\Singleton.Example1.runtimeconfig.json
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\bin\Debug\net8.0\Singleton.Example1.dll
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\bin\Debug\net8.0\Singleton.Example1.pdb
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.AssemblyInfoInputs.cache
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.AssemblyInfo.cs
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.csproj.CoreCompileInputs.cache
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.dll
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\refint\Singleton.Example1.dll
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.pdb
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\Singleton.Example1.genruntimeconfig.cache
+C:\Users\Wainerock\source\repos\Singleton.Example1\Singleton.Example1\obj\Debug\net8.0\ref\Singleton.Example1.dll

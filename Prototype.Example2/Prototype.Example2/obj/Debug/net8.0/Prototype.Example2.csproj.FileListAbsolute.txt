@@ -1,0 +1,14 @@
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\bin\Debug\net8.0\Prototype.Example2.exe
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\bin\Debug\net8.0\Prototype.Example2.deps.json
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\bin\Debug\net8.0\Prototype.Example2.runtimeconfig.json
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\bin\Debug\net8.0\Prototype.Example2.dll
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\bin\Debug\net8.0\Prototype.Example2.pdb
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.AssemblyInfoInputs.cache
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.AssemblyInfo.cs
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.csproj.CoreCompileInputs.cache
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.dll
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\refint\Prototype.Example2.dll
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.pdb
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\Prototype.Example2.genruntimeconfig.cache
+C:\Users\Wainerock\source\repos\Prototype.Example2\Prototype.Example2\obj\Debug\net8.0\ref\Prototype.Example2.dll

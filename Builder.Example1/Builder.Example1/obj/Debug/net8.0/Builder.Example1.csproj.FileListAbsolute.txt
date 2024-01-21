@@ -1,0 +1,14 @@
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\bin\Debug\net8.0\Builder.Example1.exe
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\bin\Debug\net8.0\Builder.Example1.deps.json
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\bin\Debug\net8.0\Builder.Example1.runtimeconfig.json
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\bin\Debug\net8.0\Builder.Example1.dll
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\bin\Debug\net8.0\Builder.Example1.pdb
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.AssemblyInfoInputs.cache
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.AssemblyInfo.cs
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.csproj.CoreCompileInputs.cache
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.dll
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\refint\Builder.Example1.dll
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.pdb
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\Builder.Example1.genruntimeconfig.cache
+C:\Users\Wainerock\source\repos\Builder.Example1\Builder.Example1\obj\Debug\net8.0\ref\Builder.Example1.dll

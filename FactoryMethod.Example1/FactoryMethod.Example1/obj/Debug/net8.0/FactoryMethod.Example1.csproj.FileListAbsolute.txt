@@ -1,0 +1,14 @@
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.exe
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.deps.json
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.runtimeconfig.json
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.dll
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.pdb
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.AssemblyInfoInputs.cache
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.AssemblyInfo.cs
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.csproj.CoreCompileInputs.cache
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.dll
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\refint\FactoryMethod.Example1.dll
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.pdb
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.genruntimeconfig.cache
+C:\Users\Wainerock\source\repos\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\ref\FactoryMethod.Example1.dll

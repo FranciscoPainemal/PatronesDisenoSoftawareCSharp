@@ -1,0 +1,14 @@
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\bin\Debug\net8.0\AbstractFactory.Example2.exe
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\bin\Debug\net8.0\AbstractFactory.Example2.deps.json
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\bin\Debug\net8.0\AbstractFactory.Example2.runtimeconfig.json
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\bin\Debug\net8.0\AbstractFactory.Example2.dll
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\bin\Debug\net8.0\AbstractFactory.Example2.pdb
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.AssemblyInfoInputs.cache
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.AssemblyInfo.cs
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.csproj.CoreCompileInputs.cache
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.dll
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\refint\AbstractFactory.Example2.dll
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.pdb
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\AbstractFactory.Example2.genruntimeconfig.cache
+C:\Users\Wainerock\source\repos\AbstractFactory.Example2\AbstractFactory.Example2\obj\Debug\net8.0\ref\AbstractFactory.Example2.dll
