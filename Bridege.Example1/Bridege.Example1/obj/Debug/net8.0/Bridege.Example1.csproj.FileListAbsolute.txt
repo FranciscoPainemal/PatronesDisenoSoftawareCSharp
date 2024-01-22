@@ -1,0 +1,14 @@
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\bin\Debug\net8.0\Bridege.Example1.exe
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\bin\Debug\net8.0\Bridege.Example1.deps.json
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\bin\Debug\net8.0\Bridege.Example1.runtimeconfig.json
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\bin\Debug\net8.0\Bridege.Example1.dll
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\bin\Debug\net8.0\Bridege.Example1.pdb
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.AssemblyInfoInputs.cache
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.AssemblyInfo.cs
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.csproj.CoreCompileInputs.cache
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.dll
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\refint\Bridege.Example1.dll
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.pdb
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\Bridege.Example1.genruntimeconfig.cache
+C:\Users\Mis Archivos\source\repos\Bridege.Example1\Bridege.Example1\obj\Debug\net8.0\ref\Bridege.Example1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bridege.Example1/1.0.0": {
+        "runtime": {
+          "Bridege.Example1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridege.Example1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

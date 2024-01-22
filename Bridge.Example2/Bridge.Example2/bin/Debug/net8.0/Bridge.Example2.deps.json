@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bridge.Example2/1.0.0": {
+        "runtime": {
+          "Bridge.Example2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridge.Example2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
